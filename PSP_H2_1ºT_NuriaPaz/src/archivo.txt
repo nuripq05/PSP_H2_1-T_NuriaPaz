@@ -1,0 +1,17 @@
+Java Basico;1
+Java Avanzado;2
+JavaMail;3
+JavaNet90;4
+JavaIO64;5
+
+Pandas de Python;11
+PythonNumpy;22
+PythonMatplotlib;33
+Frasco de Python;44
+PythonScipy;55
+
+PhpDocumentador;111
+PhpMyAdmin;222
+PhpExcel;333
+Unidad PHP;444
+PhpWord;555
